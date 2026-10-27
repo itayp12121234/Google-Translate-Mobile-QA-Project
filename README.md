@@ -55,11 +55,11 @@ The complete test execution report is available through the public Qase report:
 
 ## Project Documentation
 
-- `01_STP_Google_Translate_Mobile_QA.pdf` – Software Test Plan
-- `02_Exploratory_Testing_Google_Translate.pdf` – Exploratory testing scenarios and results
-- `03_Test_Cases_Sample_Google_Translate.pdf` – Selected sample of test cases from the full test repository
-- `04_Defect_Report_Google_Translate.pdf` – Detailed defect report
-- `05_STR_Google_Translate_Mobile_QA.pdf` – Software Test Results and final project summary
+- [Software Test Plan (STP)](01_STP_Google_Translate_Mobile_QA.pdf)
+- [Exploratory Testing](02_Exploratory_Testing_Google_Translate.pdf)
+- [Test Cases Sample](03_Test_Cases_Sample_Google_Translate.pdf)
+- [Defect Report](04_Defect_Report_Google_Translate.pdf)
+- [Software Test Results (STR)](05_STR_Google_Translate_Mobile_QA.pdf)
 
 ## Test Case Repository
 
