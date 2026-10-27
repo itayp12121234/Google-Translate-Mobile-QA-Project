@@ -4,7 +4,7 @@ Manual Mobile QA project performed on the Google Translate Android application.
 
 ## Project Overview
 
-This project focused on testing the main functionality of Google Translate on Android, including functional behavior, usability, permissions, network conditions, application lifecycle, display settings, and Android integration.
+This project focused on testing the main functionality of Google Translate on Android.
 
 The testing process included test planning, exploratory testing, test case design, test execution, defect reporting, and final test results documentation.
 
@@ -29,12 +29,11 @@ The project included testing of:
 
 - Text translation
 - Language selection
-- Voice input
-- Camera features
 - Saved phrases
-- Permissions
-- Network behavior
-- Offline behavior
+- Voice input
+- Real-time conversation translation
+- Camera and image translation
+- Network and offline behavior
 - Application lifecycle
 - Display and accessibility settings
 - Android integration
@@ -48,14 +47,28 @@ The project included testing of:
 
 One Minor severity display defect was identified when using the maximum device font size.
 
+### Qase Test Run Report
+
+The complete test execution report is available through the public Qase report:
+
+[View Full Test Run Report](https://app.qase.io/public/report/218abd76452d150c28c888946fe5434fad9406eb)
+
 ## Project Documentation
 
-- `01_STP_Google_Translate_Mobile_QA.pdf`
-- `02_Exploratory_Testing_Google_Translate.pdf`
-- `03_Test_Cases_Google_Translate.pdf`
-- `04_Test_Run_Google_Translate.pdf`
-- `05_Defect_Report_Google_Translate.pdf`
-- `06_STR_Google_Translate_Mobile_QA.pdf`
+- `01_STP_Google_Translate_Mobile_QA.pdf` – Software Test Plan
+- `02_Exploratory_Testing_Google_Translate.pdf` – Exploratory testing scenarios and results
+- `03_Test_Cases_Sample_Google_Translate.pdf` – Selected sample of test cases from the full test repository
+- `04_Defect_Report_Google_Translate.pdf` – Detailed defect report
+- `05_STR_Google_Translate_Mobile_QA.pdf` – Software Test Results and final project summary
+
+## Test Case Repository
+
+The full project contained:
+
+- 94 Test Cases
+- 14 Test Suites
+
+A selected sample is included in this repository to demonstrate test case structure, steps, expected results, and coverage across different mobile testing areas.
 
 ## Key Skills Demonstrated
 
@@ -66,5 +79,4 @@ One Minor severity display defect was identified when using the maximum device f
 - Test Execution
 - Defect Reporting
 - Test Documentation
-- Qase Test Management# Google-Translate-Mobile-QA-Project
-Manual Mobile QA project for Google Translate on Android, including test planning, exploratory testing, test execution, defect reporting and test results.
+- Qase Test Management
